@@ -1,2 +1,30 @@
-A projekt egy webalapú receptkezelő rendszer, amely szerepkör alapú jogosultságkezeléssel biztosít lehetőséget receptek böngészésére, feltöltésére és értékelésére.
-A rendszer kiemelt célja a biztonságos működés és a moderált tartalomkezelés megvalósítása.
+# BudgetChef Webalkalmazás
+
+## 1. Célunk: 
+- A **BudgetChef** egy elegáns és intuitív receptkezelő webalkalmazás, amely leegyszerűsíti a főzés folyamatát, és segít a receptek rendszerezésében.  
+Célunk, hogy modern, fiatalos felhasználói élményt nyújtsunk: egy olyan felületet, amely vizuálisan vonzó, könnyen kezelhető, és lehetővé teszi a gyors, hatékony főzést a mindennapokban. A platform elsősorban fiatal felnőttek számára készült, akik értékelik a praktikus és stílusos megoldásokat a konyhában.
+
+---
+
+## 2. Telepítés és indítás
+
+A projekt futtatásához kövesd az alábbi lépéseket:
+
+### 3. Csomagok telepítése
+
+Nyisd meg a terminált a projekt könyvtárában, majd futtasd:
+
+```bash
+npm install
+```
+### 4. Fejlesztői környezet indítása
+
+#### a) Frontend indítása:
+```bash
+npm run dev
+```
+
+#### b) Backend indítása:
+```bash
+npm run start:dev
+```
