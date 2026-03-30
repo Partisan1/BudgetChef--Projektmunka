@@ -28,3 +28,10 @@ npm run dev
 ```bash
 npm run start:dev
 ```
+
+### 5. Backend produkciós indítása (éles környezetben):
+```bash
+npm run build
+npm start:prod
+npm run start
+```
