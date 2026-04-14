@@ -35,3 +35,9 @@ npm run build
 npm start:prod
 npm run start
 ```
+### 6. Frontend jest tesztelés indítása:
+```bash
+npm test --LoginComp
+npm test --RegisterComp
+npm test --ProfileComp
+npm test --AdminComp
